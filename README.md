@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Maria Alice mas podem me chamar de Liu, tenho 24 anos e sou natural de Alagoas. Concluí o ensino médio em 2018, em Maceió. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UMJ. Sou apaixonada por tecnologia e compartilho meu conhecimento no LinkedIn "[Maria Alice](https://www.linkedin.com/in/maria-alice-0a78921a4/)" e no GitHub "[marialiuce](https://github.com/marialiuce)" Afim de atuar na área de Análise de dados e também aprofundar meus conhecimentos em Data science e Programação.
+Me chamo Maria Alice mas podem me chamar de Liu, tenho 24 anos e sou natural de Alagoas. Concluí o ensino médio em 2018, em Maceió. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UMJ. Sou apaixonada por tecnologia e compartilho meu conhecimento no LinkedIn "[Maria Alice](https://www.linkedin.com/in/maria-alice-0a78921a4/)" e no GitHub "[marialiuce](https://github.com/marialiuce)"
 
 <p align="left"> 
     <a href="https://github.com/marialiuce?tab=repositories&sort=stargazers">
