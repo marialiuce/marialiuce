@@ -23,7 +23,7 @@ Me chamo Maria Alice mas podem me chamar de Liu, tenho 24 anos e sou natural de 
 
 ---
 
-### 🤖 Linguagens e Tecnologias de Estudo
+### 🤖 Linguagens e Tecnologias de Estudo e Interesse
 
 <img 
     align="left" 
