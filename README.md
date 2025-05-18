@@ -1,8 +1,14 @@
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B6DD&width=435&lines=%D6%B4+%E0%A3%AA%F0%96%A4%90%E2%8B%86+Welcome+to+my+profile+.%E1%90%9F+%E2%99%A1" alt="Typing SVG" /></a>
+</div>
+
 # 👩🏼‍💻 Maria Alice - Liu 
 
 **`Desenvolvedora FullStack`**
 
 Me chamo Maria Alice mas podem me chamar de Liu, tenho 24 anos e sou natural de Alagoas. Concluí o ensino médio em 2018, em Maceió. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UMJ. Sou apaixonada por tecnologia e compartilho meu conhecimento no LinkedIn "[Maria Alice](https://www.linkedin.com/in/maria-alice-0a78921a4/)" e no GitHub "[marialiuce](https://github.com/marialiuce)"
+
+#
 
 <p align="left"> 
     <a href="https://github.com/marialiuce?tab=repositories&sort=stargazers">
@@ -160,3 +166,9 @@ Me chamo Maria Alice mas podem me chamar de Liu, tenho 24 anos e sou natural de 
   />
   
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marialiuce/marialiuce/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marialiuce/marialiuce/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marialiuce/marialiuce/output/github-contribution-grid-snake.svg">
+</picture>
