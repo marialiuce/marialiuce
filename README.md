@@ -8,7 +8,7 @@
 
 ### Sobre Mim
 
-Estudante de Análise e Desenvolvimento de Sistemas e entusiasta da tecnologia, com um foco em desenvolvimento Front-End. Minha principal motivação é a criação de interfaces de usuário que aliam estética e usabilidade para proporcionar uma experiência de navegação otimizada.
+Estudante de Análise e Desenvolvimento de Sistemas e entusiasta de tecnologia, com foco em desenvolvimento Front-End. Minha principal motivação é criar interfaces de usuário que aliem estética e usabilidade, proporcionando uma experiência de navegação otimizada.
 
 * Cursando **Análise e Desenvolvimento de Sistemas**.
 * Focada em **React, TypeScript e todo o seu ecossistema**.
