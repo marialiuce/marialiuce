@@ -136,14 +136,6 @@ Quando não estou programando, meus interesses incluem jogos de RPG, jardinagem 
 
 <br/>
 <br/>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialiuce&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-  
 </p>
 
 <picture align="center">
