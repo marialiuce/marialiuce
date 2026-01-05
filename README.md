@@ -1,146 +1,46 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B6DD&width=435&lines=%D6%B4+%E0%A3%AA%F0%96%A4%90%E2%8B%86+Welcome+to+my+profile+.%E1%90%9F+%E2%99%A1" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B6DD&width=435&lines=Hi+there,+I+am+Liu;Front-End+Developer;Expanding+to+Full-Stack." alt="Typing SVG" /></a>
 </div>
 
-# 👩🏼‍💻 Liu 
+# Liu <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-**`Desenvolvedora Front-End`**
+**`Front-End Developer | Expanding to Full-Stack`**
 
-### Sobre Mim
+### About Me
 
-Estudante de Análise e Desenvolvimento de Sistemas e entusiasta de tecnologia, com foco em desenvolvimento Front-End. Minha principal motivação é criar interfaces de usuário que aliem estética e usabilidade, proporcionando uma experiência de navegação otimizada.
+I am a Front-End Developer passionate about crafting user interfaces that blend **aesthetics** with **usability**. My main tech stack is the **React ecosystem**, mastering its frameworks and static typing (TypeScript). Seeking technical versatility, I am also deepening my knowledge in **Angular and its ecosystem**. Currently, I am actively expanding my skills into **Back-End development** to build complete, robust, and scalable web solutions.
 
-* Cursando **Análise e Desenvolvimento de Sistemas**.
-* Focada em **React, TypeScript e todo o seu ecossistema**.
-* Pronta para colaborar em projetos desafiadores, continuar minha jornada de aprendizado e contribuir com minhas habilidades.
+Currently pursuing a degree in Systems Analysis and Development, I am focused on mastering advanced JavaScript concepts and server-side technologies like PHP (Laravel) and Node.js. I am ready to collaborate on challenging projects, contributing with my technical skills while continuing my journey of continuous learning.
 
-Quando não estou programando, meus interesses incluem jogos de RPG, jardinagem e felinos. Adoro trocar ideias sobre tecnologia, jogos ou até dicas de jardinagem! Compartilho meu conhecimento no LinkedIn "[Maria Alice](https://www.linkedin.com/in/maria-alice-0a78921a4/)" e no GitHub "[marialiuce](https://github.com/marialiuce)"
+When not coding, I am surrounded by my six cats or tending to my plants, balancing the digital world with crochet and Botany. Fueled by coffee, I also enjoy anime, Indie games, RPGs, and MOBAs. 
 
 ---
 
+<div align="center">
+  
+  <p>I share my knowledge on <a href="https://www.linkedin.com/in/maria-alice-0a78921a4/" target="_blank">LinkedIn</a> • <a href="https://github.com/marialiuce" target="_blank">GitHub</a></p>
 
-### 🤖 Linguagens e Tecnologias de Estudo e Interesse
+  <hr width="50%" />
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" style="margin: 0 5px;" alt="JS" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" style="margin: 0 5px;" alt="TS" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" style="margin: 0 5px;" alt="React" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" style="margin: 0 5px;" alt="Angular" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" style="margin: 0 5px;" alt="Next" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" style="margin: 0 5px;" alt="Node" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" style="margin: 0 5px;" alt="PHP" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" style="margin: 0 5px;" alt="Laravel" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" style="margin: 0 5px;" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" style="margin: 0 5px;" alt="Git" />
+  </p>
 
-<br/>
-<br/>
-</p>
+</div>
+
+<br />
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marialiuce/marialiuce/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marialiuce/marialiuce/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marialiuce/marialiuce/output/github-contribution-grid-snake.svg">
 </picture>
-
