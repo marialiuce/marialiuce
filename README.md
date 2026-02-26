@@ -26,7 +26,6 @@ Outside of coding, I enjoy taking care of my cats and plants, as well as explori
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" style="margin: 0 5px;" alt="JS" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" style="margin: 0 5px;" alt="TS" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" style="margin: 0 5px;" alt="React" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" style="margin: 0 5px;" alt="Angular" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" style="margin: 0 5px;" alt="Next" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" style="margin: 0 5px;" alt="Node" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" style="margin: 0 5px;" alt="PHP" />
