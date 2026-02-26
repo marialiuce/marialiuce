@@ -8,11 +8,11 @@
 
 ### About Me
 
-I am a Front-End Developer focused on building user interfaces that balance aesthetics and usability. My main expertise is in the React ecosystem, with strong proficiency in TypeScript.
+I am a Front-End Developer focused on building user interfaces that balance aesthetics, performance, and usability. My primary expertise lies within the React ecosystem, with strong proficiency in TypeScript.
 
-I am expanding my skills in Angular and Back-End development with Node.js and PHP (Laravel) to build scalable, end-to-end web solutions. Currently pursuing a degree in Systems Analysis and Development, I am driven by challenging projects and continuous learning.
+I have experience developing modern web applications and am expanding my skills in Back-End development with Node.js and PHP (Laravel), aiming to build scalable, end-to-end solutions. Currently pursuing a degree in Systems Analysis and Development, I am driven by technical challenges and continuous learning.
 
-Outside of code, I enjoy caring for my cats, plants, and exploring creative hobbies.
+Outside of coding, I enjoy taking care of my cats and plants, as well as exploring creative hobbies.
 
 ---
 
